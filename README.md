@@ -1,4 +1,4 @@
-# http_and_provider
+# movie-card-swiper-flutter-app
 
 A new Flutter project.
 
